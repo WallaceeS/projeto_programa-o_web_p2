@@ -10,7 +10,7 @@ Este é um projeto acadêmico desenvolvido para as avaliações (P2) da discipli
 ## Tecnologias Usadas:
 * Angular 17+
 * Bootstrap 5
-* HTML / CSS / TypeScript
+* HTML / CSS / TypeScript / Java
 
 ---
 **Nota sobre as marcas:**
